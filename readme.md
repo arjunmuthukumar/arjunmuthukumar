@@ -120,8 +120,7 @@ Integrates AI and ELK stack for automated log correlation and anomaly scoring.
 
 
 ---
+> “In cybersecurity, offense informs defense — every threat is a lesson.”
 
-                  > “Defense isn’t static — it learns, adapts, and evolves.”  
----
 
 ⭐️ *From [Arjun Muthukumar](https://github.com/arjunmuthukumar)*  
