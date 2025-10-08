@@ -77,7 +77,9 @@ Integrates AI and ELK stack for automated log correlation and anomaly scoring.
 
 - 🧩 **Microsoft Certified: Security Operations Analyst (SC-200)**  
 - 🔒 **CompTIA Security+ (in progress)**  
-- 🏛️ **Oracle Certified Foundations Associate**  
+- 🏆 **Oracle Cloud Infrastructure Foundations Associate (1Z0-1085-23)**
+- ☁️ **Oracle Cloud Infrastructure Architect Associate (1Z0-1072-23)**
+- 🧠 **Oracle Cloud Data Management Foundations Associate (1Z0-1105-23)**
 
 ---
 
