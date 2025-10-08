@@ -121,4 +121,7 @@ Integrates AI and ELK stack for automated log correlation and anomaly scoring.
 
 ---
 
+                  > “Defense isn’t static — it learns, adapts, and evolves.”  
+---
+
 ⭐️ *From [Arjun Muthukumar](https://github.com/arjunmuthukumar)*  
