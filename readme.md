@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Hi+I'm+Arjun+Muthukumar;Cybersecurity+Researcher+%7C+SOC+Engineer+%7C+Threat+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Hi+I'm+Arjun+Muthukumar;Cybersecurity+Researcher)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Arjun Muthukumar  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arjunmuthukumar.netlify.app/)
