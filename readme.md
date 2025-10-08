@@ -17,11 +17,11 @@ I bridge the gap between **AI systems**, **cyber operations**, and **real-world 
 
 ### 🧩 About Me  
 
-- 🔐 Passionate about **cyber operations**, **forensics**, and **SOC automation**  
-- 🧰 Skilled in **threat hunting**, **SIEM configuration**, **incident response**, and **AI-assisted threat detection**  
-- 🧠 Building intelligent tools that **detect, analyze, and neutralize threats** with minimal human input  
-- 🚀 Always exploring new ways to integrate **machine learning** into **security workflows**  
-- 🌐 Creator of **Forensic Vision** and **SecureChat Ops**
+- Passionate about **cyber operations**, **forensics**, and **SOC automation**  
+- Skilled in **threat hunting**, **SIEM configuration**, **incident response**, and **AI-assisted threat detection**  
+- Building intelligent tools that **detect, analyze, and neutralize threats** with minimal human input  
+- Always exploring new ways to integrate **machine learning** into **security workflows**  
+- Creator of **Forensic Vision** and **SecureChat Ops**
 
 ---
 
