@@ -11,7 +11,7 @@
 ### 🧠 Cybersecurity Researcher | SOC Engineer | Threat Analyst  
 
 Currently focusing on **AI-driven cybersecurity**, **offensive security automation**, and **digital forensics**.  
-I bridge the gap between **AI systems**, **cyber operations**, and **real-world digital defense** — developing tools that make security intelligent, adaptive, and resilient.
+I bridge the gap between **AI systems**, **cyber operations**, and **real-world digital defense**, developing tools that make security intelligent, adaptive, and resilient.
 
 ---
 
