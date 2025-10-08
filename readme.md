@@ -120,7 +120,10 @@ Integrates AI and ELK stack for automated log correlation and anomaly scoring.
 
 
 ---
-> “In cybersecurity, offense informs defense — every threat is a lesson.”
+<p align="center">
+  <i><span style="color:#00FFFF;">“In cybersecurity, offense informs defense — every threat is a lesson.”</span></i>
+</p>
+
 
 
 ⭐️ *From [Arjun Muthukumar](https://github.com/arjunmuthukumar)*  
