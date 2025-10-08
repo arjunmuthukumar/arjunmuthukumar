@@ -86,7 +86,7 @@ Integrates AI and ELK stack for automated log correlation and anomaly scoring.
 
 ### 📚 Education  
 
-🎓 **B.Tech in Cyber Security** — Hindusthan College of Engineering & Technology  
+🎓 **B.Tech in Information Technology** — SRM Valliammai Engineering College  
 🗓️ *2020 – 2024*
 
 ---
